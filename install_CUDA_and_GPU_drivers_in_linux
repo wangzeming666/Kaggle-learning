@@ -1,0 +1,20 @@
+I found that you have to use linux, not windows or MacOS. So you can use some tools from tensorflow.
+
+10 years ago, I found it was hard to install all the packages and work well.
+Now I found the same.
+
+Luckly now we have ChatGPT. It really helps me from a lot of stressing.
+
+OK. Here was the things useful. 
+
+1. Install the stable version of Linux.
+
+2. Install the old version of Linux Core. Old enough beacuse CUDA doesn't support lots of new versions.
+
+3. Install the old version of GPU Driver. Also beacuse of CUDA. 
+
+4. Install old version of Python. Do not over python 3.11. I used python3.10 and worked well. 2025.
+
+You definitely need some luck in deep learning. So good luck. 
+
+New journey. Have fun. 
