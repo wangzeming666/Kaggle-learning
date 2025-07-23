@@ -1,4 +1,4 @@
-# Kaggle-learning
+# Kaggle Competion and learning
 
 I'm learning about how to create AI models in Kaggle.
 
